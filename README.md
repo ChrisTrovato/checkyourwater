@@ -27,7 +27,7 @@ Enter your zip code and see your water system's PFAS contamination grade (A thro
 ## Run locally
 
 ```bash
-git clone https://github.com/christrovato2000-stack/checkyourwater.git
+git clone https://github.com/ChrisTrovato/checkyourwater.git
 cd checkyourwater
 npm install
 cp .env.example .env.local   # fill in Supabase + Anthropic + revalidation secret
@@ -91,4 +91,4 @@ MIT
 - General: hello@checkyourwater.org
 - Data corrections: data@checkyourwater.org
 
-Built by [Chris Trovato](https://github.com/christrovato2000-stack).
+Built by [Chris Trovato](https://github.com/ChrisTrovato).
